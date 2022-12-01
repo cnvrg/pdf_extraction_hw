@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#remove tars and autloads
+.*
+dev-autoload.py
+autoload.py
+*.h5
+*.pickle
+*.pt
+*.tar.gz
+*.tar
+/venv
+*Dockerfile*
+/kaggle_connector
+prod-autoload.py

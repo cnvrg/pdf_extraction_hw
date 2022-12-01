@@ -1,0 +1,10 @@
+test_arguments:
+  pdf_path: "test_directory/sample.pdf"
+  img_path: "test_directory/test.png"
+  img_content: "Diego, my love,\nRemember that once you finish the fresco we will be together forever once\nand for all, without arguments or anything, only to love one another.\nBehave yourself and do everything that Emmy Lon tells you.\nI adore you more than ever. Your girl, Frida"
+  digital_pages: 
+    0: "This is the sample digital pdf page."
+  scanned_pages: 
+    1: "This is a sample scanned page. "
+  directory_path: "test_directory"
+  files_in_directory: ["test_directory/sample.pdf","test_directory/test_dir_2/sample.pdf","test_directory/test.png"]
