@@ -1,0 +1,3 @@
+This blueprint can be used to extract text from all pdf files including the ones that contain handwritten text and store it in .json format. The user needs to provide the path to the directory containing all pdf files and receive the .json file in the output artifacts. Click on `use blueprint` option to get started. **Note : Use this blueprint only if your pdfs contain handwritten text along with typed text or just handwritten text, as this blueprint takes more time to run as compared to text extraction blueprint** 
+
+[See here how we created this blueprint](https://github.com/cnvrg/pdf_extraction_hw)
